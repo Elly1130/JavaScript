@@ -60,10 +60,6 @@ class Cycling extends Workout {
   }
 }
 
-const run1 = new Running([20, 100], 5.2, 24, 178);
-const cycle1 = new Cycling([20, 100], 27, 95, 523);
-console.log(run1, cycle1);
-
 ///////////////////////////////////////////////////////////////////////////////
 
 // APPLICATION ARCHITECTURE
